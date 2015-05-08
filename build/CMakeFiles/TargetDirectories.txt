@@ -1,0 +1,1 @@
+/home/ug-research/software/protobuf/build/CMakeFiles/Prototest.dir

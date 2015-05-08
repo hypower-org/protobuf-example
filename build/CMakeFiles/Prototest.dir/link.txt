@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Prototest.dir/write_message.o CMakeFiles/Prototest.dir/command.pb.o  -o Prototest  -L/usr/local/lib -rdynamic -lprotobuf -Wl,-rpath,/usr/local/lib 

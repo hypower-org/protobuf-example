@@ -1,0 +1,10 @@
+package control;
+
+option java_package = "ycp.edu";
+option java_outer_classname = "PhysicloudProtos";
+
+message Command {
+  required string name = 1;
+  required float v = 2;
+  required float w = 3; 
+}
